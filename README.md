@@ -50,7 +50,7 @@ Para ejecutar este flow, es necesario lo siguiente
 ### Notas
 
 - Este Flow se suscribe al tema codigoIoT/Mor/mqtt/flow4
-- El mensaje mqtt usado para probar este flow es `mosquitto_pub -h localhost -t codigoIoT/Mor/mqtt/flow4 -m '{"ID":"Hugo Vargas","temp":18,"hum":78}'`
+- El mensaje mqtt usado para probar este flow es `mosquitto_pub -h localhost -t codigoIoT/Mor/mqtt/flow4 -m '{"ID":"HAlfredo Larraga","temp":18,"hum":53}'`
 - Para que la gráfica historica muestre información, deben enviarse al menos 2 puntos
 
 
